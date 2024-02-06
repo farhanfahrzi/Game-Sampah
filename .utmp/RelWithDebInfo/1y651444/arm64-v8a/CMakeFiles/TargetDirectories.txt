@@ -1,0 +1,5 @@
+F:/Project/Project Unity/Game Sampah/Unity/Game Sampah/.utmp/RelWithDebInfo/1y651444/arm64-v8a/CMakeFiles/edit_cache.dir
+F:/Project/Project Unity/Game Sampah/Unity/Game Sampah/.utmp/RelWithDebInfo/1y651444/arm64-v8a/CMakeFiles/rebuild_cache.dir
+F:/Project/Project Unity/Game Sampah/Unity/Game Sampah/.utmp/RelWithDebInfo/1y651444/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+F:/Project/Project Unity/Game Sampah/Unity/Game Sampah/.utmp/RelWithDebInfo/1y651444/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+F:/Project/Project Unity/Game Sampah/Unity/Game Sampah/.utmp/RelWithDebInfo/1y651444/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
